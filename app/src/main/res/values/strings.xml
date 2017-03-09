@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabWeek1</string>
+
+    <string name="sign_in">Sign in</string>
+
+    <string name="create_account">Create account</string>
+    <string name="fancy">Fancy</string>
+</resources>
